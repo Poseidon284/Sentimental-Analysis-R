@@ -24,9 +24,10 @@ Clone the repository:
 ```bash
 git clone https://github.com/Poseidon284/sentiment-analysis-r.git
 ```
-Open RStudio and set the working directory to the cloned repository.
 
-Run the following command to install additional dependencies:
+1. Open RStudio and set the working directory to the cloned repository.
+
+2. Run the following command to install additional dependencies:
 
 ```R
 install.packages(c("e1071", "tm", "Matrix","Swing"))
