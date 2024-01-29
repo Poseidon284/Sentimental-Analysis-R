@@ -22,7 +22,7 @@ There is a maximum file size limit for this classifier. Any file that exceeds th
 ## Installation
 Clone the repository:
 ```bash
-
+git clone https://github.com/Poseidon284/Sentimental-Analysis-R.git
 ```
 
 1. Open RStudio and set the working directory to the cloned repository.
